@@ -98,3 +98,18 @@ public class Account : IDisposable
         Dispose();
     }
 }
+  
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Account a1 = new Account("Vibha","500000000");
+
+        a1.Deposit(1000);
+        a1.Withdraw(500);
+
+
+        a1.Display();   
+    }
+}
