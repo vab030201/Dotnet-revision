@@ -1,0 +1,15 @@
+D:\Git\Dotnet-revision\Methods\obj\Debug\net10.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Dotnet-revision\Methods\obj\Debug\net10.0\Methods.AssemblyInfoInputs.cache
+D:\Git\Dotnet-revision\Methods\obj\Debug\net10.0\Methods.AssemblyInfo.cs
+D:\Git\Dotnet-revision\Methods\obj\Debug\net10.0\Methods.csproj.CoreCompileInputs.cache
+D:\Git\Dotnet-revision\Methods\obj\Debug\net10.0\Methods.sourcelink.json
+D:\Git\Dotnet-revision\Methods\bin\Debug\net10.0\Methods.exe
+D:\Git\Dotnet-revision\Methods\bin\Debug\net10.0\Methods.deps.json
+D:\Git\Dotnet-revision\Methods\bin\Debug\net10.0\Methods.runtimeconfig.json
+D:\Git\Dotnet-revision\Methods\bin\Debug\net10.0\Methods.dll
+D:\Git\Dotnet-revision\Methods\bin\Debug\net10.0\Methods.pdb
+D:\Git\Dotnet-revision\Methods\obj\Debug\net10.0\Methods.dll
+D:\Git\Dotnet-revision\Methods\obj\Debug\net10.0\refint\Methods.dll
+D:\Git\Dotnet-revision\Methods\obj\Debug\net10.0\Methods.pdb
+D:\Git\Dotnet-revision\Methods\obj\Debug\net10.0\Methods.genruntimeconfig.cache
+D:\Git\Dotnet-revision\Methods\obj\Debug\net10.0\ref\Methods.dll
