@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\CSClass\\CSClass.csproj": {}
+    "D:\\Git\\Dotnet-revision\\CSClass\\CSClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\CSClass\\CSClass.csproj": {
+    "D:\\Git\\Dotnet-revision\\CSClass\\CSClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\CSClass\\CSClass.csproj",
+        "projectUniqueName": "D:\\Git\\Dotnet-revision\\CSClass\\CSClass.csproj",
         "projectName": "CSClass",
-        "projectPath": "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\CSClass\\CSClass.csproj",
+        "projectPath": "D:\\Git\\Dotnet-revision\\CSClass\\CSClass.csproj",
         "packagesPath": "C:\\Users\\Vibhavari Borole\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\CSClass\\obj\\",
+        "outputPath": "D:\\Git\\Dotnet-revision\\CSClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

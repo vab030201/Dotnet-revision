@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\Methods\\Methods.csproj",
+      "projectUniqueName": "D:\\Git\\Dotnet-revision\\Methods\\Methods.csproj",
       "projectName": "Methods",
-      "projectPath": "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\Methods\\Methods.csproj",
+      "projectPath": "D:\\Git\\Dotnet-revision\\Methods\\Methods.csproj",
       "packagesPath": "C:\\Users\\Vibhavari Borole\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\Methods\\obj\\",
+      "outputPath": "D:\\Git\\Dotnet-revision\\Methods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

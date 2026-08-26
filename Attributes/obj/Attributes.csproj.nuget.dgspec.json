@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\Attributes\\Attributes.csproj": {}
+    "D:\\Git\\Dotnet-revision\\Attributes\\Attributes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\Attributes\\Attributes.csproj": {
+    "D:\\Git\\Dotnet-revision\\Attributes\\Attributes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\Attributes\\Attributes.csproj",
+        "projectUniqueName": "D:\\Git\\Dotnet-revision\\Attributes\\Attributes.csproj",
         "projectName": "Attributes",
-        "projectPath": "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\Attributes\\Attributes.csproj",
+        "projectPath": "D:\\Git\\Dotnet-revision\\Attributes\\Attributes.csproj",
         "packagesPath": "C:\\Users\\Vibhavari Borole\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vibhavari Borole\\Desktop\\clonedotnet\\Dotnet-revision\\Attributes\\obj\\",
+        "outputPath": "D:\\Git\\Dotnet-revision\\Attributes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
