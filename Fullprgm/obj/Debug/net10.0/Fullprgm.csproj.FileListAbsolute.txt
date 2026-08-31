@@ -1,0 +1,15 @@
+D:\Git\Dotnet-revision\Fullprgm\obj\Debug\net10.0\Fullprgm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Dotnet-revision\Fullprgm\obj\Debug\net10.0\Fullprgm.AssemblyInfoInputs.cache
+D:\Git\Dotnet-revision\Fullprgm\obj\Debug\net10.0\Fullprgm.AssemblyInfo.cs
+D:\Git\Dotnet-revision\Fullprgm\obj\Debug\net10.0\Fullprgm.csproj.CoreCompileInputs.cache
+D:\Git\Dotnet-revision\Fullprgm\obj\Debug\net10.0\Fullprgm.sourcelink.json
+D:\Git\Dotnet-revision\Fullprgm\bin\Debug\net10.0\Fullprgm.exe
+D:\Git\Dotnet-revision\Fullprgm\bin\Debug\net10.0\Fullprgm.deps.json
+D:\Git\Dotnet-revision\Fullprgm\bin\Debug\net10.0\Fullprgm.runtimeconfig.json
+D:\Git\Dotnet-revision\Fullprgm\bin\Debug\net10.0\Fullprgm.dll
+D:\Git\Dotnet-revision\Fullprgm\bin\Debug\net10.0\Fullprgm.pdb
+D:\Git\Dotnet-revision\Fullprgm\obj\Debug\net10.0\Fullprgm.dll
+D:\Git\Dotnet-revision\Fullprgm\obj\Debug\net10.0\refint\Fullprgm.dll
+D:\Git\Dotnet-revision\Fullprgm\obj\Debug\net10.0\Fullprgm.pdb
+D:\Git\Dotnet-revision\Fullprgm\obj\Debug\net10.0\Fullprgm.genruntimeconfig.cache
+D:\Git\Dotnet-revision\Fullprgm\obj\Debug\net10.0\ref\Fullprgm.dll
