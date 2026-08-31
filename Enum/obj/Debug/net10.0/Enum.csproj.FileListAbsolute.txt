@@ -1,0 +1,15 @@
+D:\Git\Dotnet-revision\Enum\bin\Debug\net10.0\Enum.exe
+D:\Git\Dotnet-revision\Enum\bin\Debug\net10.0\Enum.deps.json
+D:\Git\Dotnet-revision\Enum\bin\Debug\net10.0\Enum.runtimeconfig.json
+D:\Git\Dotnet-revision\Enum\bin\Debug\net10.0\Enum.dll
+D:\Git\Dotnet-revision\Enum\bin\Debug\net10.0\Enum.pdb
+D:\Git\Dotnet-revision\Enum\obj\Debug\net10.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Dotnet-revision\Enum\obj\Debug\net10.0\Enum.AssemblyInfoInputs.cache
+D:\Git\Dotnet-revision\Enum\obj\Debug\net10.0\Enum.AssemblyInfo.cs
+D:\Git\Dotnet-revision\Enum\obj\Debug\net10.0\Enum.csproj.CoreCompileInputs.cache
+D:\Git\Dotnet-revision\Enum\obj\Debug\net10.0\Enum.sourcelink.json
+D:\Git\Dotnet-revision\Enum\obj\Debug\net10.0\Enum.dll
+D:\Git\Dotnet-revision\Enum\obj\Debug\net10.0\refint\Enum.dll
+D:\Git\Dotnet-revision\Enum\obj\Debug\net10.0\Enum.pdb
+D:\Git\Dotnet-revision\Enum\obj\Debug\net10.0\Enum.genruntimeconfig.cache
+D:\Git\Dotnet-revision\Enum\obj\Debug\net10.0\ref\Enum.dll
