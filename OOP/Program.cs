@@ -145,3 +145,98 @@ Account acc2 = new CurrentAccount();
 
 acc1.ProcessTransaction(1000);
 acc2.ProcessTransaction(1000);
+
+
+/*inheritance 
+
+public abstract class Employee
+{
+    protected double BasicSalary;
+    protected double Hra;
+    protected double Da;
+
+    protected Employee()
+    {
+        BasicSalary = 5000;
+        Hra = 1200;
+        Da = 700;
+    }
+
+    protected Employee(
+        double basicSalary,
+        double hra,
+        double da)
+    {
+        BasicSalary = basicSalary;
+        Hra = hra;
+        Da = da;
+    }
+
+    public virtual double CalculateSalary()
+    {
+        return BasicSalary + Hra + Da;
+    }
+
+    public abstract double CalculateBonus();
+}
+Manager:
+
+public class Manager : Employee
+{
+    private double incentive;
+
+    public Manager()
+        : base()
+    {
+        incentive = 0;
+    }
+
+    public Manager(
+        double basicSalary,
+        double hra,
+        double da,
+        double incentive)
+        : base(basicSalary, hra, da)
+    {
+        this.incentive = incentive;
+    }
+
+    public double CalculateIncentives()
+    {
+        return incentive * 2;
+    }
+
+    public override double CalculateSalary()
+    {
+        return base.CalculateSalary()
+             + CalculateIncentives();
+    }
+
+    public override double CalculateBonus()
+    {
+        return BasicSalary * 0.20;
+    }
+}
+Now:
+
+static void Main()
+{
+    Employee emp =
+        new Manager(
+            20000,
+            5000,
+            3000,
+            4000);
+
+    double salary =
+        emp.CalculateSalary();
+
+    double bonus =
+        emp.CalculateBonus();
+
+    Console.WriteLine(
+        $"Salary = {salary}");
+
+    Console.WriteLine(
+        $"Bonus = {bonus}");
+}
