@@ -1,0 +1,15 @@
+D:\Git\Dotnet-revision\date\bin\Debug\net10.0\date.exe
+D:\Git\Dotnet-revision\date\bin\Debug\net10.0\date.deps.json
+D:\Git\Dotnet-revision\date\bin\Debug\net10.0\date.runtimeconfig.json
+D:\Git\Dotnet-revision\date\bin\Debug\net10.0\date.dll
+D:\Git\Dotnet-revision\date\bin\Debug\net10.0\date.pdb
+D:\Git\Dotnet-revision\date\obj\Debug\net10.0\date.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Dotnet-revision\date\obj\Debug\net10.0\date.AssemblyInfoInputs.cache
+D:\Git\Dotnet-revision\date\obj\Debug\net10.0\date.AssemblyInfo.cs
+D:\Git\Dotnet-revision\date\obj\Debug\net10.0\date.csproj.CoreCompileInputs.cache
+D:\Git\Dotnet-revision\date\obj\Debug\net10.0\date.sourcelink.json
+D:\Git\Dotnet-revision\date\obj\Debug\net10.0\date.dll
+D:\Git\Dotnet-revision\date\obj\Debug\net10.0\refint\date.dll
+D:\Git\Dotnet-revision\date\obj\Debug\net10.0\date.pdb
+D:\Git\Dotnet-revision\date\obj\Debug\net10.0\date.genruntimeconfig.cache
+D:\Git\Dotnet-revision\date\obj\Debug\net10.0\ref\date.dll
